@@ -25,3 +25,10 @@ Builds everything that is needed. There are basic commands that are needed of ge
         └──06-controllersa
               └──products-controller.ts
         └──app.ts
+
+npm can work for both mongodb and mysql
+
+If anyone wants to work with mysql
+You have to write in the console
+build mysql
+And if you want mongodb then write build mongodb
