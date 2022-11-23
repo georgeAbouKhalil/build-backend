@@ -32,3 +32,7 @@ If anyone wants to work with mysql
 You have to write in the console
 build mysql
 And if you want mongodb then write build mongodb
+
+## Example video
+
+https://www.youtube.com/watch?v=HsHjL5h7mjQ&ab_channel=georgeak
